@@ -23,7 +23,7 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Saigon Technology VietNam](https://saigontechnology.com/)
+- 💼 FrontEnd Engineer at [Saigon Technology](https://saigontechnology.com/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
@@ -47,8 +47,8 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+   <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=next.js&svgfill=ffffff">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
@@ -57,12 +57,27 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-</a> -->
+</a> 
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=028dd1">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=adobephotoshop&svgfill=31A8FF">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=canva&svgfill=00C4CC">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=adobeindesign&svgfill=FF3366">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=adobeillustrator&svgfill=FF9A00">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
@@ -82,13 +97,13 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CSS&value=70&design=candy&fill=ff69b4">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=50&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=JS&value=90&design=candy&fill=ff69b4">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=60&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=90&design=candy&fill=ff69b4">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=CPP&value=50&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=NodeJS&value=50&design=candy&fill=ff69b4">
 </a>
 
 <div align="center" >
