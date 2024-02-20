@@ -23,13 +23,13 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [Saigon Technology VietNam](https://saigontechnology.com/)
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here]()
+- 💬 Ask me about anything [here](https://github.com/Halle520/Halle520/issues)
 
 
 ## Things I use on a daily basis
