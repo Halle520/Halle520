@@ -1,12 +1,4 @@
-<!-- ### Hi there 👋
-<br> I'm Hal, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
- -->
- <p align="center">
-  <img alig src="img/about.gif" />
-</p>
+
 <!--
 **Halle520/Halle520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +13,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img alig src="img/about.gif" width="400" />
+</p>
+
+<br />
+
+I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
+
+**About me**
+
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+
+- 💬 Ask me about anything [here]()
 
 
 ## Things I use on a daily basis
