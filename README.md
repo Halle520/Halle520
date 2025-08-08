@@ -103,7 +103,7 @@ I'm a self-taught passionate FrontEnd developer from Vietnam 🇻🇳
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=REACT&value=90&design=candy&fill=ff69b4">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=NodeJS&value=50&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=NodeJS&value=80&design=candy&fill=ff69b4">
 </a>
 
 <div align="center" >
